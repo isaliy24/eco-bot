@@ -24,5 +24,5 @@ async def fact(ctx):
     random_fact = random.choice(facts)
     await ctx.send(random_fact)
 
-token = "MTEyNzkzODg4NTI1NTcwODY5Mg.G7uBRz.gDe9-tIGaVbOo_pc6_zJSM8sW0Qnw_iFHWtgak"
+token = ""
 bot.run(token)
